@@ -1,0 +1,8 @@
+django
+django-organizations
+django-environ
+psycopg2-binary
+django-extensions
+djangorestframework
+markdown
+django-filter
